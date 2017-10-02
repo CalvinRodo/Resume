@@ -1,26 +1,31 @@
-#Calvin Rodo
-##Personal Information
+# Calvin Rodo
+
+## Personal Information
+
 **Address**
+
 >109 Chartwell Ave.
 >Ottawa, On
 >K2G 4C6
 
 
 **Employment Information**
+
 > **Group and Level** *CS-03* \
 > **Language Proficiency** *English* \
-> **Security Clearance** *Enhanced Reliability Status* 
+> **Security Clearance** *Enhanced Reliability Status*
 
-##Education
+## Education
+
 **Algonquin College **
 Advanced Diploma - Computer Engineering Technology, Computing Science
 Placed on the Dean's Honour List for the spring 2006 semester
 Graduated in December of 2006
 
-##Experience
-ESDC(IITB) Solution Delivery Services
-April 2017 to Present
-Technical Advisor
+## Experience
+
+**ESDC(IITB) Solution Delivery Services**
+**Technical Advisor** *April 2017 to Present*
 
 **Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems**
 **Acting Technical Authority/Project Manager MariTime** *June 2015 to April 2016*
