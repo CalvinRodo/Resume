@@ -9,7 +9,7 @@
 **Employment Information**
 > **Group and Level** *CS-03* \
 > **Language Proficiency** *English* \
-> **Security Clearance** *Enhanced Reliability Status* \
+> **Security Clearance** *Enhanced Reliability Status* 
 
 ##Education
 **Algonquin College **
@@ -24,28 +24,28 @@ Technical Advisor
 
 **Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems**
 **Acting Technical Authority/Project Manager MariTime** *June 2015 to April 2016*
- >- Developed a plan to upgrade a CCG's Mission planning and timetracking software from Delphi 7 to .Net \
+ >- Developed a plan to upgrade a CCG's Mission planning and timetracking software from Delphi 7 to .Net 
  >- Managed a team of two consultants and two developers
  >- Developed a web portal for Sea Going Personel to view leave balances and training taken
  >- Evaluated an RFP for hiring two consultants (~$500,000)
 
 **ESDC (IITB) Solution Delivery Services**
 **Acting Team Leader** *March 2015 to June 2015*
->- Organized a monthly Developer Community of Practice meeting, where I lead various talks as well as
->- Attended Architecture Review Commitee to evaluate solutions for enterprise
+>- Organized a monthly Developer Community of Practice (Dev COP) meeting 
+>- Gave talks to Dev COP about Test Driven Design (tools, techniques, benefits)
+>- Attended Architecture Review Commitee to support the departments Application Portfolio Management Process.
 >- Organized training for IITB's Technical Advisors Resource Centre
 >- Provided code reviews for development teams
+>- Refactored and Rewrote the Record of Employment website from an ASP.Net WebForms application written in Visual Basic to an ASP.Net MVC Web Application written in C#
+>- Rewrote ROEWebs Intranet facing APIs in WCF
+>- Rewrote ROEWebs Internet facing APIs in WebAPI (Restful)
 
-**ESDC (IITB) ROE Intake Team **
+**ESDC (IITB) Record of Employment (ROE) Intake Team **
 **Programmer Analyst** *July 2010 to March 2015*
-
-Web Experience Toolkit
-Contributor: December 2012 to Present
-
-Untitled Hosting: Owner December 2012 to Present
-Projects:
-Wedding RSVP and Registry Site
-Perfect Press Fitness Website Design
+>- Created Mockups for Assistant in collaboration with Business Stakeholders
+>- Designed ROE Web Assistant using Knockout.js and ASP.Net MVC 
+>- Designed and developed a Business Rules Engine to validate ROEs for various intake streams
+>- Introduced a Code Review program for Junior Developers
 
 HRSDC-RHDSC (IITB) In-Person Support Services (formerly CAWS Services)
 IM/IT Programmer: Jan, 2006 to July 2010
@@ -58,33 +58,24 @@ Co-Op Student - Tech Support: Sept, 2004 to Dec, 2004
 Co-Op Student - Scripting: Jan 2004  to Apr, 2004
 
 
-Experience/Responsibilities
-I was responsible for organizing a monthly CoP meeting where we inform the Tech 03’s of information related to their job as Technical Advisors as well as foster discussion on items such as new standards for development, different tools and technologies among others.
 
-As well I was responsible for providing advice to various teams through the branch; this includes advising on development technologies (IDEs, Frameworks, Libraries, tools) as well as reviewing code produced by developers at IITB as well as other departments.
-I was also required to attend various Architecture Review Committee meetings in order to support the departments Application Portfolio Management Process.
+Web Experience Toolkit
+Contributor: December 2012 to Present
+
+Untitled Hosting: Owner December 2012 to Present
+Projects:
+Wedding RSVP and Registry Site
+Perfect Press Fitness Website Design
+
+
 
 Application Development Community (ADC)
 Description
 The ADC is the community of developers in IITB
 Experience/Responsibilities
 I was responsible for organizing a monthly ADC meeting where we disseminate information the developers at IITB. This requires me to come up with material, organize speakers and lead the meetings once a month. I’m also responsible for answering any questions the attendees have. Essentially I’m responsible for fostering developer engagement at IITB.
-IITB - ROE Intake Team
-Record of Employment Web Assistant
-Description
-An online “Wizard” for the Record of Employment Website
-Experience/Responsibilities
-I worked closely with the business stakeholders to design an assistant for the record of employment website; this involved the creation of Mock-ups based on functional requirements. 
-I also re-designed the architecture for ROE Web to reduce duplication of effort by developers in regards to the online form and the Assistant.
-I did the entire development on the Assistant for ROEWeb this involved integrating various JavaScript frameworks (JQuery, KnockoutJS), as well as writing custom JavaScript to make for a more modern application. 
-Record of Employment Business Rules Consolidation
-Description
-This project involves a consolidation of the rules for all of the Record of Employment Intake applications to one set of common business rules for all applications.
-Experience/Responsibilities
-I designed the rules engine (See Application Readiness Trigger) that is being used by all four ROE Applications (ROE Web, Roe Content Manage, ROE Sat, and the ART Stamper). 
-I also advised the developers on how to integrate it with their applications as well as provided advice on how to properly implement the business rules. 
-I was also responsible for implementing a NuGet server to properly manage the shared dependencies between the separate applications.
-I was also responsible for delegating work to and performing code reviews of the work done by a CS01 resource from the resource centre.
+
+
 Record of Employment Website
 Description
 ROE Web is an online tool that allows Canadian businesses to submit Records of Employment online. ROE Web was developed using ASP .Net 2.0 and VB .Net with an Oracle Database backend. 
