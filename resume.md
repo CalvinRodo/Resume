@@ -18,14 +18,16 @@
 
 - Maintain the [GOCWebTemplates/DotNetTemplates](http://gitlab.ssc.etg.gc.ca/GOCWebTemplates/DotNetTemplates) project
 - Opened up the source of the [GOCWebTemplates/DotNetTemplates](http://gitlab.ssc.etg.gc.ca/GOCWebTemplates/DotNetTemplates) to the GoC Developer community through GCCode
+- Provide technical advice to development teams at IITB (Code Reviews, Design Reviews)
+- Maintain the Enterprise Web Services
+- Develope internal recommendations regarding software development at IITB
+
 - Represent software developers at various departmental working groups
 >- Mobile Application Development
 >- Agile
 >- DevOps
 >- Innovation
 
-- Provide technical advice to development teams at IITB (Code Reviews, Design Reviews)
-- Maintain the Enterprise Web Services
 - Represent software developers at various departmental committees
 >- Architecture Review Committee
 >- IT Asset Management Committee
