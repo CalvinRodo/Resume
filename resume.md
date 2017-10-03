@@ -31,14 +31,14 @@
 **Acting Team Leader** *March 2015 to June 2015*
 
 - Organized a monthly Developer Community of Practice (Dev COP) meeting
---Gave talks to Dev COP about Test Driven Design
--- Automated Unit Testing techniques and tools
---- Inversion of Control
---- Dependency Injection
---- Mocks and Fakes
---- Advanced .Net Development
--- Static Analysis
--- Source Control Guidelines
+ -Gave talks to Dev COP about Test Driven Design
+ - Automated Unit Testing techniques and tools
+  - Inversion of Control
+  - Dependency Injection
+  - Mocks and Fakes
+  - Advanced .Net Development
+ - Static Analysis
+ - Source Control Guidelines
 - Attended Architecture Review Commitee to support the departments Application Portfolio Management Process.
 - Organized training for IITB's Technical Advisors Resource Centre
 - Provided code reviews for development teams
