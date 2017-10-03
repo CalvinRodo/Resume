@@ -20,7 +20,8 @@
 - Opened up the source of the [GOCWebTemplates/DotNetTemplates](http://gitlab.ssc.etg.gc.ca/GOCWebTemplates/DotNetTemplates) to the GoC Developer community through GCCode
 - Provide technical advice to development teams at IITB (Code Reviews, Design Reviews)
 - Maintain the Enterprise Web Services
-- Develope internal recommendations regarding software development at IITB
+- Develop internal recommendations regarding software development at IITB
+- Assess the impact of GC-CIRTs on internally developed applications
 
 - Represent software developers at various departmental working groups
 >- Mobile Application Development
