@@ -16,7 +16,7 @@
 **ESDC(IITB) Solution Delivery Services** \
 **Technical Advisor** *April 2017 to Present*
 
-- Maintain the GOCWebTemplates/DotNetTemplates project
+- Maintain the [GOCWebTemplates/DotNetTemplates](http://gitlab.ssc.etg.gc.ca/GOCWebTemplates/DotNetTemplates) project
 - Member of various working groups (Mobile Application Development, Agile, DevOps, Innovation)
 
 **Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems** \
@@ -31,14 +31,13 @@
 **Acting Team Leader** *March 2015 to June 2015*
 
 - Organized a monthly Developer Community of Practice (Dev COP) meeting
- -Gave talks to Dev COP about Test Driven Design
- - Automated Unit Testing techniques and tools
-  - Inversion of Control
-  - Dependency Injection
-  - Mocks and Fakes
-  - Advanced .Net Development
- - Static Analysis
- - Source Control Guidelines
+- Gave talks to Dev COP on various subjects including but not limited to:
+>- Automated Unit Testing Techniques and tools
+>- Build Automation
+>- Static Analysis Tools (JavaScript, .Net, Java)
+>- Coding Conventions (JavaScript, .Net, Java)
+>- Application Lifecyle Management
+>- Advanced .Net Development Techniques
 - Attended Architecture Review Commitee to support the departments Application Portfolio Management Process.
 - Organized training for IITB's Technical Advisors Resource Centre
 - Provided code reviews for development teams
@@ -50,7 +49,7 @@
 - Designed ROE Web Assistant using Knockout.js and ASP.Net MVC
 - Designed and developed a Business Rules Engine to validate ROEs for various intake streams
 - Introduced a Code Review program for Junior Developers
-- Member of various branch working groups (Logging, Code Review, SCWASI)
+- Member of various branch working groups (Logging, Code Review, Sustained Compliance on Web Accessibility Standards for the Internet (SCWASI))
 - Introduced Automated Unit Testing
 - Refactored and Rewrote the Record of Employment website from an ASP.Net WebForms application written in Visual Basic to an ASP.Net MVC Web Application written in C#
 - Rewrote ROEWebs Intranet facing APIs in WCF
