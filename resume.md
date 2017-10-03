@@ -1,10 +1,10 @@
 # Calvin Rodo
 
-**Employment Information**
+##Employment Information
 
-> **Group and Level** *CS-03* \
-> **Language Proficiency** *English* \
-> **Security Clearance** *Enhanced Reliability Status*
+**Group and Level** *CS-03* \
+**Language Proficiency** *English* \
+**Security Clearance** *Enhanced Reliability Status*
 
 
 ## Experience
@@ -13,57 +13,57 @@
 
 **Technical Advisor** *April 2017 to Present*
 
->- Maintain the GOCWebTemplates/DotNetTemplates project
->- Member of various working groups (Mobile Application Development, Agile, DevOps, Innovation)
+- Maintain the GOCWebTemplates/DotNetTemplates project
+- Member of various working groups (Mobile Application Development, Agile, DevOps, Innovation)
 
 **Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems**
 
 **Acting Technical Authority/Project Manager for MariTime** *June 2015 to April 2016*
 
- >- Developed a plan to upgrade a CCG's Mission planning and timetracking software from Delphi 7 to .Net
- >- Managed a team of two consultants and two developers
- >- Developed a web portal for Sea Going Personel to view leave balances and training taken
- >- Evaluated an RFP for hiring two consultants (~$500,000)
+- Developed a plan to upgrade a CCG's Mission planning and timetracking software from Delphi 7 to .Net
+- Managed a team of two consultants and two developers
+- Developed a web portal for Sea Going Personel to view leave balances and training taken
+- Evaluated an RFP for hiring two consultants (~$500,000)
 
 **ESDC (IITB) Solution Delivery Services**
 
 **Acting Team Leader** *March 2015 to June 2015*
 
->- Organized a monthly Developer Community of Practice (Dev COP) meeting
->- Gave talks to Dev COP about Test Driven Design (tools, techniques, benefits)
->- Attended Architecture Review Commitee to support the departments Application Portfolio Management Process.
->- Organized training for IITB's Technical Advisors Resource Centre
->- Provided code reviews for development teams
->- Refactored and Rewrote the Record of Employment website from an ASP.Net WebForms application written in Visual Basic to an ASP.Net MVC Web Application written in C#
->- Rewrote ROEWebs Intranet facing APIs in WCF
->- Rewrote ROEWebs Internet facing APIs in WebAPI (Restful)
+- Organized a monthly Developer Community of Practice (Dev COP) meeting
+- Gave talks to Dev COP about Test Driven Design (tools, techniques, benefits)
+- Attended Architecture Review Commitee to support the departments Application Portfolio Management Process.
+- Organized training for IITB's Technical Advisors Resource Centre
+- Provided code reviews for development teams
+- Refactored and Rewrote the Record of Employment website from an ASP.Net WebForms application written in Visual Basic to an ASP.Net MVC Web Application written in C#
+- Rewrote ROEWebs Intranet facing APIs in WCF
+- Rewrote ROEWebs Internet facing APIs in WebAPI (Restful)
 
 **ESDC (IITB) Record of Employment (ROE) Intake Team **
 
 **Programmer Analyst** *July 2010 to March 2015*
 
->- Created Mockups for Assistant in collaboration with Business Stakeholders
->- Designed ROE Web Assistant using Knockout.js and ASP.Net MVC
->- Designed and developed a Business Rules Engine to validate ROEs for various intake streams
->- Introduced a Code Review program for Junior Developers
->- Member of various branch working groups (Logging, Code Review, SCWASI) 
+- Created Mockups for Assistant in collaboration with Business Stakeholders
+- Designed ROE Web Assistant using Knockout.js and ASP.Net MVC
+- Designed and developed a Business Rules Engine to validate ROEs for various intake streams
+- Introduced a Code Review program for Junior Developers
+- Member of various branch working groups (Logging, Code Review, SCWASI) 
 
 **HRSDC (IITB) In-Person Support Services**
 **IM/IT Programmer** *Jan, 2006 to July 2010*
 **Co-Op Student** *May, 2005 to Dec, 2005*
 
->- Designed a solution to provide internet through dial-up in remote areas
->- 3rd Level Support for Citizen Access Workstations
->- Developed a remote adminstration tool
+- Designed a solution to provide internet through dial-up in remote areas
+- 3rd Level Support for Citizen Access Workstations
+- Developed a remote adminstration tool
 
 **National Research Council (IMSB)**
 **Server Workstation and Technology  (SWaT) group**
 **Co-Op Student** *Jan 2004 to Dec, 2004*
 
->- Provided technical support for researchers at 100 Sussex Drive
->- Developed applications to support the Server Workstation and Technology Team
->- Designed the Client Feedback System
->- Lead the ICRS Mobile Outreach team
+- Provided technical support for researchers at 100 Sussex Drive
+- Developed applications to support the Server Workstation and Technology Team
+- Designed the Client Feedback System
+- Lead the ICRS Mobile Outreach team
 
 **Personal Projects**
 [WedXpress](https://github.com/CalvinRodo/WedXpress)
