@@ -13,15 +13,13 @@
 
 ## Experience
 
-**ESDC(IITB) Solution Delivery Services**
-
+**ESDC(IITB) Solution Delivery Services** \
 **Technical Advisor** *April 2017 to Present*
 
 - Maintain the GOCWebTemplates/DotNetTemplates project
 - Member of various working groups (Mobile Application Development, Agile, DevOps, Innovation)
 
-**Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems**
-
+**Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems** \
 **Acting Technical Authority/Project Manager for MariTime** *June 2015 to April 2016*
 
 - Developed a plan to upgrade a CCG's Mission planning and timetracking software from Delphi 7 to .Net
@@ -29,8 +27,7 @@
 - Developed a web portal for Sea Going Personel to view leave balances and training taken
 - Evaluated an RFP for hiring two consultants (~$500,000)
 
-**ESDC (IITB) Solution Delivery Services**
-
+**ESDC (IITB) Solution Delivery Services** \
 **Acting Team Leader** *March 2015 to June 2015*
 
 - Organized a monthly Developer Community of Practice (Dev COP) meeting
@@ -43,8 +40,7 @@
 - Rewrote ROEWebs Intranet facing APIs in WCF
 - Rewrote ROEWebs Internet facing APIs in WebAPI (Restful)
 
-**ESDC (IITB) Record of Employment (ROE) Intake Team **
-
+**ESDC (IITB) Record of Employment (ROE) Intake Team** \
 **Programmer Analyst** *July 2010 to March 2015*
 
 - Created Mockups for Assistant in collaboration with Business Stakeholders
@@ -53,25 +49,24 @@
 - Introduced a Code Review program for Junior Developers
 - Member of various branch working groups (Logging, Code Review, SCWASI) 
 
-**HRSDC (IITB) In-Person Support Services**
+**HRSDC (IITB) In-Person Support Services** \
 **IM/IT Programmer** *Jan, 2006 to July 2010*
 **Co-Op Student** *May, 2005 to Dec, 2005*
 
-- Designed a solution to provide internet through dial-up in remote areas
 - 3rd Level Support for Citizen Access Workstations
-- Developed a remote adminstration tool
+- Design and Development of Citizen Access Workstation
+- Design and Development of Client Feedback System
 
-**National Research Council (IMSB)**
+**National Research Council (IMSB)** \
 **Server Workstation and Technology  (SWaT) group**
 **Co-Op Student** *Jan 2004 to Dec, 2004*
 
 - Provided technical support for researchers at 100 Sussex Drive
 - Developed applications to support the Server Workstation and Technology Team
-- Designed the Client Feedback System
-- Lead the ICRS Mobile Outreach team
 
 **Personal Projects**
-[WedXpress](https://github.com/CalvinRodo/WedXpress)
+
+**[WedXpress](https://github.com/CalvinRodo/WedXpress)**
 An opensource Wedding Registry Website written in JavaScript using the express web framework.
 Integrates with Amazon S3 for image storage and Stripe for payment processing.
 
@@ -89,12 +84,6 @@ Wedding RSVP and Registry Site
 Perfect Press Fitness Website Design
 
 
-
-Application Development Community (ADC)
-Description
-The ADC is the community of developers in IITB
-Experience/Responsibilities
-I was responsible for organizing a monthly ADC meeting where we disseminate information the developers at IITB. This requires me to come up with material, organize speakers and lead the meetings once a month. I’m also responsible for answering any questions the attendees have. Essentially I’m responsible for fostering developer engagement at IITB.
 
 
 
