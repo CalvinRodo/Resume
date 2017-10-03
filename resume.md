@@ -1,19 +1,24 @@
 # Calvin Rodo
 ## Social Media
-**GitHub** *https://github.com/CalvinRodo* \
-**Twitter** *https://twitter.com/CalvinR* \
+**GitHub** *https://github.com/CalvinRodo*
+
+**Twitter** *https://twitter.com/CalvinR*
+
 **LinkedIn** *https://www.linkedin.com/in/calvin-rodo-54396710/*
 
 ## Employment Information
 
-**Group and Level** *CS-03* \
-**Language Proficiency** *English* \
+**Group and Level** *CS-03*
+
+**Language Proficiency** *English*
+
 **Security Clearance** *Enhanced Reliability Status*
 
 
 ## Experience
 
-**ESDC(IITB) Solution Delivery Services** \
+**ESDC(IITB) Solution Delivery Services**
+
 **Technical Advisor** *April 2017 to Present*
 
 - Maintain the [GOCWebTemplates/DotNetTemplates](http://gitlab.ssc.etg.gc.ca/GOCWebTemplates/DotNetTemplates) project
@@ -35,7 +40,8 @@
 >- Subject Matter Expert Review Committee
 
 
-**Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems** \
+**Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems**
+
 **Acting Technical Authority/Project Manager for MariTime** *June 2015 to April 2017*
 
 - Developed a plan to upgrade a CCG's Mission planning and time tracking software from Delphi 7 to .Net
@@ -43,7 +49,8 @@
 - Developed a web portal for Sea Going Personnel to view leave balances and training taken using Asp.Net Core v1.1
 - Evaluated RFPs
 
-**ESDC (IITB) Solution Delivery Services** \
+**ESDC (IITB) Solution Delivery Services**
+
 **Acting Team Leader** *March 2015 to June 2015*
 
 - Organized a monthly Developer Community of Practice (Dev COP) meeting
@@ -60,7 +67,8 @@
 - Provided code reviews for development teams
 
 
-**ESDC (IITB) Record of Employment (ROE) Intake Team** \
+**ESDC (IITB) Record of Employment (ROE) Intake Team**
+
 **Programmer Analyst** *July 2010 to March 2015*
 
 - Created mock-ups for the ROE Web Assistant in collaboration with Business Stakeholders
@@ -80,15 +88,18 @@
 - Rewrote the intranet facing APIs for ROEWeb in Microsofts Windows Communication Framework (WCF)
 - Rewrote the internet facing APIs for ROEWeb in Microsoft's WebAPI (Restful)
 
-**HRSDC (IITB) In-Person Support Services** \
-**IM/IT Programmer** *Jan, 2006 to July 2010* \
+**HRSDC (IITB) In-Person Support Services**
+
+**IM/IT Programmer** *Jan, 2006 to July 2010*
+
 **Co-Op Student** *May, 2005 to Dec, 2005*
 
 - 3rd level support for Citizen Access Workstations
 - Design and development of Citizen Access Workstation
 - Design and development of Client Feedback System
 
-**National Research Council Server Workstation and Technology Team** \
+**National Research Council Server Workstation and Technology Team**
+
 **Co-Op Student** *Jan 2004 to Dec, 2004*
 
 - Provided technical support for researchers at 100 Sussex Drive
@@ -96,11 +107,13 @@
 
 ## Personal Projects
 
-**[WedXpress](https://github.com/CalvinRodo/WedXpress)** \
-An open source Wedding Registry Website written in JavaScript using the Express web framework. \
+**[WedXpress](https://github.com/CalvinRodo/WedXpress)**
+
+An open source Wedding Registry Website written in JavaScript using the Express web framework.
+
 Integrates with Amazon S3 for image storage and Stripe for payment processing, hosted on an nginx server.
 
 ## Education
 
-**2006** Algonquin College **Advanced Diploma in Computer Engineering Technology, Computing Science** 
+**2006** Algonquin College **Advanced Diploma in Computer Engineering Technology, Computing Science**
 - Developed a p2p file sharing and social networking application for school project
