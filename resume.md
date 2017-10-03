@@ -77,8 +77,8 @@
 
 - Introduced Automated Unit Testing
 - Refactored and rewrote the Record of Employment website from an ASP.Net WebForms application written in Visual Basic to an ASP.Net MVC Web Application written in C#
-- Rewrote the intranet facing APIs for ROEWeb in WCF
-- Rewrote the internet facing APIs for ROEWeb in WebAPI (Restful)
+- Rewrote the intranet facing APIs for ROEWeb in Microsofts Windows Communication Framework (WCF)
+- Rewrote the internet facing APIs for ROEWeb in Microsoft's WebAPI (Restful)
 
 **HRSDC (IITB) In-Person Support Services** \
 **IM/IT Programmer** *Jan, 2006 to July 2010* \
