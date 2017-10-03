@@ -15,13 +15,6 @@
 > **Language Proficiency** *English* \
 > **Security Clearance** *Enhanced Reliability Status*
 
-## Education
-
-**Algonquin College**
-
-Advanced Diploma - Computer Engineering Technology, Computing Science
-Placed on the Dean's Honour List for the spring 2006 semester
-Graduated in December of 2006
 
 ## Experience
 
@@ -85,6 +78,10 @@ Graduated in December of 2006
 [WedXpress](https://github.com/CalvinRodo/WedXpress)
 An opensource Wedding Registry Website written in JavaScript using the express web framework.
 Integrates with Amazon S3 for image storage and Stripe for payment processing.
+
+## Education
+
+**2006** **Algonquin College** Advanced Diploma - Computer Engineering Technology, Computing Science 
 
 Web Experience Toolkit
 Contributor: December 2012 to Present
