@@ -50,15 +50,14 @@
 - Member of various branch working groups (Logging, Code Review, SCWASI) 
 
 **HRSDC (IITB) In-Person Support Services** \
-**IM/IT Programmer** *Jan, 2006 to July 2010*
+**IM/IT Programmer** *Jan, 2006 to July 2010* \
 **Co-Op Student** *May, 2005 to Dec, 2005*
 
 - 3rd Level Support for Citizen Access Workstations
 - Design and Development of Citizen Access Workstation
 - Design and Development of Client Feedback System
 
-**National Research Council (IMSB)** \
-**Server Workstation and Technology  (SWaT) group**
+**National Research Council Server Workstation and Technology Team** \
 **Co-Op Student** *Jan 2004 to Dec, 2004*
 
 - Provided technical support for researchers at 100 Sussex Drive
@@ -66,14 +65,14 @@
 
 **Personal Projects**
 
-**[WedXpress](https://github.com/CalvinRodo/WedXpress)**
-An opensource Wedding Registry Website written in JavaScript using the express web framework.
+**[WedXpress](https://github.com/CalvinRodo/WedXpress)** \
+An opensource Wedding Registry Website written in JavaScript using the express web framework. \
 Integrates with Amazon S3 for image storage and Stripe for payment processing.
 
 ## Education
 
-**2006** Algonquin College **Advanced Diploma in Computer Engineering Technology, Computing Science**
--Developed a p2p filesharing and social networking application for school project
+**2006** Algonquin College **Advanced Diploma in Computer Engineering Technology, Computing Science** \
+- Developed a p2p filesharing and social networking application for school project
 
 Web Experience Toolkit
 Contributor: December 2012 to Present
