@@ -17,15 +17,19 @@
 **Technical Advisor** *April 2017 to Present*
 
 - Maintain the [GOCWebTemplates/DotNetTemplates](http://gitlab.ssc.etg.gc.ca/GOCWebTemplates/DotNetTemplates) project
-- Member of various departmental working groups
+- Opened up the source of the [GOCWebTemplates/DotNetTemplates](http://gitlab.ssc.etg.gc.ca/GOCWebTemplates/DotNetTemplates) to the GoC Developer community through GCCode
+- Represent software developers at various departmental working groups
 >- Mobile Application Development
 >- Agile
 >- DevOps
 >- Innovation
 
--Provide technical advice to development teams at IITB
--Maintain SDS' Enterprise Web Services
-
+- Provide technical advice to development teams at IITB
+- Maintain SDS' Enterprise Web Services
+- Represent software developers at various departmental committees
+>- Architecture Review Committee
+>- IT Asset Management Committee
+>- Subject Matter Expert Review Committee
 
 
 **Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems** \
