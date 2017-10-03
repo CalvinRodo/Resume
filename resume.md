@@ -14,14 +14,18 @@
 ## Experience
 
 **ESDC(IITB) Solution Delivery Services** \
-**Technical Advisor** *April 2017 to Present*
+**Technical Advisor** *April 2016 to Present*
 
 - Maintain the [GOCWebTemplates/DotNetTemplates](http://gitlab.ssc.etg.gc.ca/GOCWebTemplates/DotNetTemplates) project
-- Member of various working groups 
+- Member of various departmental working groups
 >- Mobile Application Development
 >- Agile
 >- DevOps
 >- Innovation
+-Provide technical advice to development teams at IITB
+-Maintain SDS' Enterprise Web Services
+
+
 
 **Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems** \
 **Acting Technical Authority/Project Manager for MariTime** *June 2015 to April 2016*
@@ -29,13 +33,13 @@
 - Developed a plan to upgrade a CCG's Mission planning and timetracking software from Delphi 7 to .Net
 - Managed a team of two consultants and two developers
 - Developed a web portal for Sea Going Personel to view leave balances and training taken using Asp.Net Core v1.1
-- Evaluated an RFP for hiring two consultants (~$500,000)
+- Evaluated RFPs
 
 **ESDC (IITB) Solution Delivery Services** \
 **Acting Team Leader** *March 2015 to June 2015*
 
 - Organized a monthly Developer Community of Practice (Dev COP) meeting
-- Gave talks to Dev COP on various subjects including but not limited to:
+- Presented to the Dev COP on various subjects including but not limited to:
 >- Automated Unit Testing Techniques and tools
 >- Build Automation
 >- Static Analysis Tools (JavaScript, .Net, Java)
@@ -50,8 +54,8 @@
 **ESDC (IITB) Record of Employment (ROE) Intake Team** \
 **Programmer Analyst** *July 2010 to March 2015*
 
-- Created Mockups for Assistant in collaboration with Business Stakeholders
-- Designed ROE Web Assistant using Knockout.js and ASP.Net MVC
+- Created Mockups for the ROE Web Assistant in collaboration with Business Stakeholders
+- Designed the ROE Web Assistant using Knockout.js and ASP.Net MVC
 - Designed and developed a Business Rules Engine to validate ROEs for various intake streams
 - Introduced a Code Review program for Junior Developers
 - Member of various branch working groups 
