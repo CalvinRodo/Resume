@@ -25,7 +25,7 @@
 >- Innovation
 
 - Provide technical advice to development teams at IITB (Code Reviews, Design Reviews)
-- Maintain SDS' Enterprise Web Services
+- Maintain the Enterprise Web Services
 - Represent software developers at various departmental committees
 >- Architecture Review Committee
 >- IT Asset Management Committee
@@ -51,7 +51,7 @@
 >- Coding Conventions (JavaScript, .Net, Java)
 >- Application Lifecyle Management
 >- Advanced .Net Development Techniques
-- Attended Architecture Review Commitee to support the departments Application Portfolio Management Process.
+- Attended Architecture Review Committee to support the Department's Application Portfolio Management Process
 - Organized training for IITB's Technical Advisors Resource Centre
 - Provided code reviews for development teams
 
@@ -59,7 +59,7 @@
 **ESDC (IITB) Record of Employment (ROE) Intake Team** \
 **Programmer Analyst** *July 2010 to March 2015*
 
-- Created Mockups for the ROE Web Assistant in collaboration with Business Stakeholders
+- Created mockups for the ROE Web Assistant in collaboration with Business Stakeholders
 - Designed the ROE Web Assistant using Knockout.js and ASP.Net MVC
 - Designed and developed a Business Rules Engine to validate ROEs for various intake streams
 - Introduced a code review program for Junior Developers
