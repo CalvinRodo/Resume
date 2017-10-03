@@ -1,4 +1,8 @@
 # Calvin Rodo
+## Social Media
+**Github** *https://github.com/CalvinRodo* \
+**Twitter** *https://twitter.com/CalvinR* \
+**LinkedIn** *https://www.linkedin.com/in/calvin-rodo-54396710/*
 
 ## Employment Information
 
@@ -34,6 +38,7 @@
 - Attended Architecture Review Commitee to support the departments Application Portfolio Management Process.
 - Organized training for IITB's Technical Advisors Resource Centre
 - Provided code reviews for development teams
+- Introduced Automated Unit Testing
 - Refactored and Rewrote the Record of Employment website from an ASP.Net WebForms application written in Visual Basic to an ASP.Net MVC Web Application written in C#
 - Rewrote ROEWebs Intranet facing APIs in WCF
 - Rewrote ROEWebs Internet facing APIs in WebAPI (Restful)
@@ -92,25 +97,11 @@ Experience/Responsibilities
 I was responsible for organizing a monthly ADC meeting where we disseminate information the developers at IITB. This requires me to come up with material, organize speakers and lead the meetings once a month. I’m also responsible for answering any questions the attendees have. Essentially I’m responsible for fostering developer engagement at IITB.
 
 
-I have also been involved with a re-architecture of the ROEWeb website to make it more testable (using Automated Unit Tests) as well as make it easier to maintain and add future enhancements to it. 
-I have been involved in the procurement process for hiring Consultants as well as costing activities for future releases.  
-Application Readiness Trigger (ART)
-Description
-ART is a tool for performing complex validations on business objects. It was created to be program agnostic and allows for various versions of rules to be run from the same library. 
-Experience/Responsibilities
-I was responsible for a redesign of ART; this required me to take it through an entire cycle of the software development cycle. 
-I was involved in designing the architecture of the application as well as writing design documentation. I was also in charge of leading a small team of developers in creating this application. 
-My tasks involved delegating work, performing code review and ensuring that timelines were met. I designed this application to be developed using a Test Driven Design approach where automated tests were written for all of the business rules to be validated according to business documentation this allowed for us to quickly iterate during our testing cycles. 
-Web Experience Toolkit (WET)
-Description
-WET-BOEW is an open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada. 
-http://wet-boew.github.io/wet-boew/index-eng.html
-Detailed Description: 
-I have had several of my code changes integrated in to WET including changes to the SASS templates as well as fixing bugs in several JavaScript plugins. I also participate in the helping implementers in issues that they have with the application.
+
+
 Untitled Hosting: 
 Untitled Hosting is the company that I created to do contracting work. 
-Projects: 
-Wedding RSVP Site and Wedding Registry Site
+
 This site is created using Node.js to serve up the pages with Nginx acting as a reverse proxy. The pages are templated using the JADE Templating engine and developed with the express.js web framework. The data is persisted to a MongoDB NoSQL Database. I'm currently re-writing the application in Angular.js.
 Perfect Press Fitness Website Design
 The Perfect Press Fitness site was a static html website developed to market a workout tool for a local inventor. I developed the site using the bootstrap web framework as well as a small JavaScript tool to serve up YouTube videos of the client’s invention. 
