@@ -1,14 +1,5 @@
 # Calvin Rodo
 
-## Personal Information
-
-**Address**
-
->109 Chartwell Ave. \
->Ottawa, On \
->K2G 4C6
-
-
 **Employment Information**
 
 > **Group and Level** *CS-03* \
@@ -81,7 +72,8 @@ Integrates with Amazon S3 for image storage and Stripe for payment processing.
 
 ## Education
 
-**2006** **Algonquin College** Advanced Diploma - Computer Engineering Technology, Computing Science 
+**2006** Algonquin College **Advanced Diploma in Computer Engineering Technology, Computing Science**
+-Developed a p2p filesharing and social networking application for school project
 
 Web Experience Toolkit
 Contributor: December 2012 to Present
