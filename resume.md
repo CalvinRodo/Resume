@@ -102,5 +102,5 @@ Integrates with Amazon S3 for image storage and Stripe for payment processing, h
 
 ## Education
 
-**2006** Algonquin College **Advanced Diploma in Computer Engineering Technology, Computing Science** \
+**2006** Algonquin College **Advanced Diploma in Computer Engineering Technology, Computing Science** 
 - Developed a p2p file sharing and social networking application for school project
