@@ -24,7 +24,7 @@
 >- DevOps
 >- Innovation
 
-- Provide technical advice to development teams at IITB
+- Provide technical advice to development teams at IITB (Code Reviews, Design Reviews)
 - Maintain SDS' Enterprise Web Services
 - Represent software developers at various departmental committees
 >- Architecture Review Committee
@@ -62,7 +62,7 @@
 - Created Mockups for the ROE Web Assistant in collaboration with Business Stakeholders
 - Designed the ROE Web Assistant using Knockout.js and ASP.Net MVC
 - Designed and developed a Business Rules Engine to validate ROEs for various intake streams
-- Introduced a Code Review program for Junior Developers
+- Introduced a code review program for Junior Developers
 - Member of various branch working groups 
 >- Logging
 >- Source Control
@@ -71,7 +71,7 @@
 >- Application Monitoring
 >- Sustained Compliance on Web Accessibility Standards for the Internet (SCWASI)
 - Introduced Automated Unit Testing
-- Refactored and Rewrote the Record of Employment website from an ASP.Net WebForms application written in Visual Basic to an ASP.Net MVC Web Application written in C#
+- Refactored and rewrote the Record of Employment website from an ASP.Net WebForms application written in Visual Basic to an ASP.Net MVC Web Application written in C#
 - Rewrote ROEWebs Intranet facing APIs in WCF
 - Rewrote ROEWebs Internet facing APIs in WebAPI (Restful)
 
@@ -79,9 +79,9 @@
 **IM/IT Programmer** *Jan, 2006 to July 2010* \
 **Co-Op Student** *May, 2005 to Dec, 2005*
 
-- 3rd Level Support for Citizen Access Workstations
-- Design and Development of Citizen Access Workstation
-- Design and Development of Client Feedback System
+- 3rd level support for Citizen Access Workstations
+- Design and development of Citizen Access Workstation
+- Design and development of Client Feedback System
 
 **National Research Council Server Workstation and Technology Team** \
 **Co-Op Student** *Jan 2004 to Dec, 2004*
@@ -92,7 +92,7 @@
 ## Personal Projects
 
 **[WedXpress](https://github.com/CalvinRodo/WedXpress)** \
-An opensource Wedding Registry Website written in JavaScript using the express web framework. \
+An opensource Wedding Registry Website written in JavaScript using the Express web framework. \
 Integrates with Amazon S3 for image storage and Stripe for payment processing, hosted on an nginx server.
 
 ## Education
