@@ -70,7 +70,7 @@
 - Provided technical support for researchers at 100 Sussex Drive
 - Developed applications to support the Server Workstation and Technology Team
 
-**Personal Projects**
+## Personal Projects
 
 **[WedXpress](https://github.com/CalvinRodo/WedXpress)** \
 An opensource Wedding Registry Website written in JavaScript using the express web framework. \
