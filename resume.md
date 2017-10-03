@@ -17,7 +17,7 @@
 
 ## Education
 
-**Algonquin College **
+**Algonquin College**
 Advanced Diploma - Computer Engineering Technology, Computing Science
 Placed on the Dean's Honour List for the spring 2006 semester
 Graduated in December of 2006
