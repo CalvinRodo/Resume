@@ -4,7 +4,7 @@
 
 **Address**
 
->109 Chartwell Ave. \ 
+>109 Chartwell Ave. \
 >Ottawa, On \
 >K2G 4C6
 
@@ -29,11 +29,14 @@ Graduated in December of 2006
 
 **Technical Advisor** *April 2017 to Present*
 
+>- Maintain the GOCWebTemplates/DotNetTemplates project
+>- Member of various working groups (Mobile Application Development, Agile, DevOps, Innovation)
+
 **Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems**
 
 **Acting Technical Authority/Project Manager MariTime** *June 2015 to April 2016*
 
- >- Developed a plan to upgrade a CCG's Mission planning and timetracking software from Delphi 7 to .Net 
+ >- Developed a plan to upgrade a CCG's Mission planning and timetracking software from Delphi 7 to .Net
  >- Managed a team of two consultants and two developers
  >- Developed a web portal for Sea Going Personel to view leave balances and training taken
  >- Evaluated an RFP for hiring two consultants (~$500,000)
@@ -42,7 +45,7 @@ Graduated in December of 2006
 
 **Acting Team Leader** *March 2015 to June 2015*
 
->- Organized a monthly Developer Community of Practice (Dev COP) meeting 
+>- Organized a monthly Developer Community of Practice (Dev COP) meeting
 >- Gave talks to Dev COP about Test Driven Design (tools, techniques, benefits)
 >- Attended Architecture Review Commitee to support the departments Application Portfolio Management Process.
 >- Organized training for IITB's Technical Advisors Resource Centre
@@ -52,21 +55,21 @@ Graduated in December of 2006
 >- Rewrote ROEWebs Internet facing APIs in WebAPI (Restful)
 
 **ESDC (IITB) Record of Employment (ROE) Intake Team **
+
 **Programmer Analyst** *July 2010 to March 2015*
+
 >- Created Mockups for Assistant in collaboration with Business Stakeholders
->- Designed ROE Web Assistant using Knockout.js and ASP.Net MVC 
+>- Designed ROE Web Assistant using Knockout.js and ASP.Net MVC
 >- Designed and developed a Business Rules Engine to validate ROEs for various intake streams
 >- Introduced a Code Review program for Junior Developers
 
-HRSDC-RHDSC (IITB) In-Person Support Services (formerly CAWS Services)
-IM/IT Programmer: Jan, 2006 to July 2010
-FSWEP Student: Sept, 2005 to Dec, 2005
-Co-Op Student: May, 2005 to Aug, 2005
+**HRSDC (IITB) In-Person Support Services**
+**IM/IT Programmer** *Jan, 2006 to July 2010*
+**Co-Op Student** *May, 2005 to Dec, 2005*
 
-National Research Council (IMSB)
-Server Workstation and Technology  (SWaT) group
-Co-Op Student - Tech Support: Sept, 2004 to Dec, 2004
-Co-Op Student - Scripting: Jan 2004  to Apr, 2004
+**National Research Council (IMSB)**
+**Server Workstation and Technology  (SWaT) group**
+**Co-Op Student** *Jan 2004 to Dec, 2004*
 
 
 
