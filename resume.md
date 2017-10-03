@@ -14,7 +14,7 @@
 ## Experience
 
 **ESDC(IITB) Solution Delivery Services** \
-**Technical Advisor** *April 2016 to Present*
+**Technical Advisor** *April 2017 to Present*
 
 - Maintain the [GOCWebTemplates/DotNetTemplates](http://gitlab.ssc.etg.gc.ca/GOCWebTemplates/DotNetTemplates) project
 - Member of various departmental working groups
@@ -29,7 +29,7 @@
 
 
 **Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems** \
-**Acting Technical Authority/Project Manager for MariTime** *June 2015 to April 2016*
+**Acting Technical Authority/Project Manager for MariTime** *June 2015 to April 2017*
 
 - Developed a plan to upgrade a CCG's Mission planning and timetracking software from Delphi 7 to .Net
 - Managed a team of two consultants and two developers
