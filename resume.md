@@ -1,6 +1,6 @@
 # Calvin Rodo
 
-##Employment Information
+## Employment Information
 
 **Group and Level** *CS-03* \
 **Language Proficiency** *English* \
