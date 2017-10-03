@@ -4,8 +4,8 @@
 
 **Address**
 
->109 Chartwell Ave.
->Ottawa, On
+>109 Chartwell Ave. \ 
+>Ottawa, On \
 >K2G 4C6
 
 
@@ -18,6 +18,7 @@
 ## Education
 
 **Algonquin College**
+
 Advanced Diploma - Computer Engineering Technology, Computing Science
 Placed on the Dean's Honour List for the spring 2006 semester
 Graduated in December of 2006
@@ -25,17 +26,22 @@ Graduated in December of 2006
 ## Experience
 
 **ESDC(IITB) Solution Delivery Services**
+
 **Technical Advisor** *April 2017 to Present*
 
 **Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems**
+
 **Acting Technical Authority/Project Manager MariTime** *June 2015 to April 2016*
+
  >- Developed a plan to upgrade a CCG's Mission planning and timetracking software from Delphi 7 to .Net 
  >- Managed a team of two consultants and two developers
  >- Developed a web portal for Sea Going Personel to view leave balances and training taken
  >- Evaluated an RFP for hiring two consultants (~$500,000)
 
 **ESDC (IITB) Solution Delivery Services**
+
 **Acting Team Leader** *March 2015 to June 2015*
+
 >- Organized a monthly Developer Community of Practice (Dev COP) meeting 
 >- Gave talks to Dev COP about Test Driven Design (tools, techniques, benefits)
 >- Attended Architecture Review Commitee to support the departments Application Portfolio Management Process.
