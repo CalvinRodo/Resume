@@ -17,7 +17,11 @@
 **Technical Advisor** *April 2017 to Present*
 
 - Maintain the [GOCWebTemplates/DotNetTemplates](http://gitlab.ssc.etg.gc.ca/GOCWebTemplates/DotNetTemplates) project
-- Member of various working groups (Mobile Application Development, Agile, DevOps, Innovation)
+- Member of various working groups 
+>- Mobile Application Development
+>- Agile
+>- DevOps
+>- Innovation
 
 **Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems** \
 **Acting Technical Authority/Project Manager for MariTime** *June 2015 to April 2016*
@@ -42,6 +46,7 @@
 - Organized training for IITB's Technical Advisors Resource Centre
 - Provided code reviews for development teams
 
+
 **ESDC (IITB) Record of Employment (ROE) Intake Team** \
 **Programmer Analyst** *July 2010 to March 2015*
 
@@ -49,7 +54,13 @@
 - Designed ROE Web Assistant using Knockout.js and ASP.Net MVC
 - Designed and developed a Business Rules Engine to validate ROEs for various intake streams
 - Introduced a Code Review program for Junior Developers
-- Member of various branch working groups (Logging, Code Review, Sustained Compliance on Web Accessibility Standards for the Internet (SCWASI))
+- Member of various branch working groups 
+>- Logging
+>- Source Control
+>- Automated Unit Testing
+>- Code Review
+>- Application Monitoring
+>- Sustained Compliance on Web Accessibility Standards for the Internet (SCWASI)
 - Introduced Automated Unit Testing
 - Refactored and Rewrote the Record of Employment website from an ASP.Net WebForms application written in Visual Basic to an ASP.Net MVC Web Application written in C#
 - Rewrote ROEWebs Intranet facing APIs in WCF
