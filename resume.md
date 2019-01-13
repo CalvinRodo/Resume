@@ -1,4 +1,5 @@
 # Calvin Rodo
+
 ## Social Media
 **GitHub** *https://github.com/CalvinRodo*
 
@@ -8,16 +9,42 @@
 
 ## Employment Information
 
-**Group and Level** *CS-03*
+**Group and Level** *Acting/CS-04*
 
 **Language Proficiency** *English*
 
 **Security Clearance** *Enhanced Reliability Status*
 
+## Talks
 
-## Experience
+- **Open Sourcing GCCode : My Journey at ESDC**  
+   *Open First Day; September 28th, 2018*
 
-**ESDC(IITB) Solution Delivery Services**
+## Recent Experience
+ 
+### ESDC(IITB) Developer Experience Team
+
+#### A/Senior Advisor - Application Development
+**January 2019 to Present**
+
+Mandated with improving the developer experience at ESDC
+
+
+### ESDC(IITB) Mobile Technology Solutions
+
+#### Technical Advisor
+*January 2018 to December 2018*
+
+- Provided advice on implementing DevOps for Mobile Application Development and Cloud Native Development
+- Provided mentoring and guidance to students and junior employees
+- Designed and developed several Mobile Apps
+- Provided advice on Cloud adoption at ESDC
+- Provided strategic advice on the topic of Mobile Development
+- Setup several CI/CD Pipelines
+- Automation of infrastructure using Terraform
+
+
+### ESDC(IITB) Solution Delivery Services
 
 **Technical Advisor** *April 2017 to Present*
 
@@ -29,18 +56,18 @@
 - Assess the impact of GC-CIRTs on internally developed applications
 
 - Represent software developers at various departmental working groups
->- Mobile Application Development
->- Agile
->- DevOps
->- Innovation
+  - Mobile Application Development
+  - Agile
+  - DevOps
+  - Innovation
 
 - Represent software developers at various departmental committees
->- Architecture Review Committee
->- IT Asset Management Committee
->- Subject Matter Expert Review Committee
+  - Architecture Review Committee
+  - IT Asset Management Committee
+  - Subject Matter Expert Review Committee
 
 
-**Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems**
+### Fisheries and Oceans Canada (Canadian Coast Guard) IT Systems
 
 **Acting Technical Authority/Project Manager for MariTime** *June 2015 to April 2017*
 
@@ -49,25 +76,17 @@
 - Developed a web portal for Sea Going Personnel to view leave balances and training taken using Asp.Net Core v1.1
 - Evaluated RFPs
 
-**ESDC (IITB) Solution Delivery Services**
+### ESDC (IITB) Solution Delivery Services**
 
 **Acting Team Leader** *March 2015 to June 2015*
 
 - Organized a monthly Developer Community of Practice (Dev COP) meeting
-- Presented to the Dev COP on various subjects including but not limited to:
->- Automated Unit Testing Techniques and tools
->- Build Automation
->- Static Analysis Tools (JavaScript, .Net, Java)
->- Coding Conventions (JavaScript, .Net, Java)
->- Application Lifecycle Management
->- Advanced .Net Development Techniques
-
-- Attended Architecture Review Committee to support the Department's Application Portfolio Management Process
+- Developed and presented several talks at ESDC's Developer Community of Practice on the topic of Software Development with a focus on writing maintainable and testable code.
+- Member of the ESDC's Architecture Review Committee
 - Organized training for IITB's Technical Advisors Resource Centre
 - Provided code reviews for development teams
 
-
-**ESDC (IITB) Record of Employment (ROE) Intake Team**
+### ESDC (IITB) Record of Employment (ROE) Intake Team**
 
 **Programmer Analyst** *July 2010 to March 2015*
 
@@ -75,43 +94,28 @@
 - Designed the ROE Web Assistant using Knockout.js and ASP.Net MVC
 - Designed and developed a Business Rules Engine to validate ROEs for various intake streams
 - Introduced a code review program for Junior Developers
-- Member of various branch working groups
->- Logging
->- Source Control
->- Automated Unit Testing
->- Code Review
->- Application Monitoring
->- Sustained Compliance on Web Accessibility Standards for the Internet (SCWASI)
-
+- Member of various branch working groups on topics surrounding Software Development
 - Introduced Automated Unit Testing
 - Refactored and rewrote the Record of Employment website from an ASP.Net WebForms application written in Visual Basic to an ASP.Net MVC Web Application written in C#
 - Rewrote the intranet facing APIs for ROEWeb in Microsofts Windows Communication Framework (WCF)
 - Rewrote the internet facing APIs for ROEWeb in Microsoft's WebAPI (Restful)
 
-**HRSDC (IITB) In-Person Support Services**
+### HRSDC (IITB) In-Person Support Services
 
 **IM/IT Programmer** *Jan, 2006 to July 2010*
 
 **Co-Op Student** *May, 2005 to Dec, 2005*
 
-- 3rd level support for Citizen Access Workstations
-- Design and development of Citizen Access Workstation
+- Provided 3rd level support for Citizen Access Workstations
+- Designed and develeoped various functions for ESDC's Citizen Access Workstation
 - Design and development of Client Feedback System
 
-**National Research Council Server Workstation and Technology Team**
+### National Research Council Server Workstation and Technology Team
 
 **Co-Op Student** *Jan 2004 to Dec, 2004*
 
-- Provided technical support for researchers at 100 Sussex Drive
+- Provided technical support for researchers.
 - Developed applications to support the Server Workstation and Technology Team
-
-## Personal Projects
-
-**[WedXpress](https://github.com/CalvinRodo/WedXpress)**
-
-An open source Wedding Registry Website written in JavaScript using the Express web framework.
-
-Integrates with Amazon S3 for image storage and Stripe for payment processing, hosted on an nginx server.
 
 ## Education
 
